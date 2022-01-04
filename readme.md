@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehimanshupatil" alt="mehimanshupatil" /></a> </p>
 
 - Currently working full time at **<a href="https://www.rupeeseed.com/" target="_blank">Rupeeseed Technology</a>** as Software developer
-- The technology's on which I work at Canvs are Reactjs, Java, Spring with proficiency in frontend technology
+- The technology's on which I work at Rupeeseed are Angular, Java, Springboot with proficiency in frontend technology
 - I also contributes on open source project, stackoverflow
 - 💬 Ask me about **react.js, Angular, javascript**
 
