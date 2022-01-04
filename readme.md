@@ -8,7 +8,7 @@
 - I also contributes on open source project, stackoverflow
 - 💬 Ask me about **react.js, Angular, javascript**
 
-- 📫 How to reach me **mailhimanshupatil@gmail.com**
+- 📫 How to reach me **hardiknaik7444@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FQZQ0x3tZbweyQOoJI-Owum0h2jwXft6/view?usp=sharing" target="_blank">PDF</a>
 
