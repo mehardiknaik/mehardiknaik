@@ -1,1 +1,1 @@
-[![Hardik Naik, Builder, designer and developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Builder%2C%20designer%20and%20developer&title=Hardik%20Naik)](https://smakosh.com)
+![Hardik Naik, Builder, designer and developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Builder%2C%20designer%20and%20developer&title=Hardik%20Naik)
